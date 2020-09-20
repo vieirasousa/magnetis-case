@@ -22,5 +22,5 @@ Exibe as páginas acessadas por cada usuário dentro do site da Magnetis. Por co
 3 - Plano de Investimentos: o usuário respondeu ao questionário e deu informações sobre o tipo de investimento que está projetando fazer e dos recursos que dispõe no momento. No funil de vendas este cliente está na etapa de decisão, e já é considerado um Prospect.
 4 - Cadastro: o lead chegou ao último nível do funil, deixou seu telefone e já é considerado uma conversão.
 
-Valor simulado em reais
+Valor simulado em reais<br>
 Exibe em Reais a pretensão de investimento do potencial cliente.
