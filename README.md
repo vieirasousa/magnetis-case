@@ -1,4 +1,4 @@
-Neste projeto iremos explorar um dataset de nome 'navegacao_usuarios' disponibilizado pela Magnetis no formato CSV. Este arquivo contém registros de acessos ao site da empresa, cujas informações são descritas pelas seguintes colunas
+Neste projeto exploramos um dataset de nome 'navegacao_usuarios' disponibilizado pela Magnetis no formato CSV. Este arquivo contém registros de acessos ao site da empresa, cujas informações são descritas pelas seguintes colunas
 <br><br>
 Id do usuários<br>
 Coluna padrão em datasets de todos os tipos, que exibe um número de identificação para cada item único, no caso aqui, para cada usuário.<br><br>
